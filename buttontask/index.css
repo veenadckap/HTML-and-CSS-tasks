@@ -1,0 +1,111 @@
+.bx1{
+    background-color: blueviolet;
+   width: 183px;
+    height: 83px;
+    border: 2px solid rgb(24, 23, 23);
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+   
+    
+}
+.bx2{
+    background-color: blueviolet;
+    width: 183px;
+    height: 83px;
+    border: 2px  solid rgb(10, 10, 10);
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+   
+}
+.bx3{
+    background-color: blueviolet;
+    width: 183px;
+    height: 83px;
+    border: 2px solid rgb(22, 21, 21);
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.box{
+    display: flex;
+    gap: 16px;
+}
+
+body{
+    background-color: blue;
+}
+
+.box4{
+    background-color: blueviolet;
+    width: 313px;
+    height: 83px;
+    border: 2px solid rgb(16, 16, 15);
+    margin-top: 11px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.box5{
+    background-color: blueviolet;
+    width: 183px;
+    height: 83px;
+    border: 2px solid rgb(8, 8, 7);
+    margin-top: 11px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.num{
+    display: flex;
+    gap: 16px;
+}
+
+.box6{
+    background-color: blueviolet;
+    width: 183px;
+    height: 83px;
+    border: 2px solid rgb(26, 25, 24);
+    margin-top: 11px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.box7{
+    background-color: blueviolet;
+    width: 183px;
+    height: 83px;
+    border: 2px solid rgb(17, 17, 17);
+    margin-top: 11px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.num1{
+    display: flex;
+    gap: 16px;
+}
+
+.container{
+    padding-left: 365px;
+    padding-top: 75px;
+
+}
