@@ -1,0 +1,114 @@
+body{
+    margin: 0;
+    background-image: linear-gradient(#77037B, #18122B);
+
+   
+}
+a{
+    font-size: 30px;
+    color: rgb(52, 40, 40);
+    text-decoration: none;
+    font-weight: bold;
+    /* padding-left: 10px; */
+}
+#Z{
+    /* margin: 0; */
+    width: 100%;
+    background-color: rgb(252, 250, 254);
+}
+nav{
+    /* background-color: rgb(252, 250, 254);  */
+     padding: 18px;
+}
+.H{
+    position: relative;
+    float: right;
+    font-size: 19px;
+    /* padding-top: 6px; */
+    /* padding-right: 49px; */
+    text-decoration: none;
+    /* padding-right: 40px; */
+    margin : 0 10px;
+}
+
+.H::after {
+    content : "";
+    width : 0%;
+    height : 3px;
+    background-color: #77037B;
+    position : absolute;
+    left : 0;
+    bottom : -9px;
+    transition: 0.5s;
+}
+
+.H:hover::after{    
+    width : 100%;
+}
+img{
+    width: 281px;
+    height: 424px;
+    border-radius: 32px 17px 19px 40px;
+    padding-left: 23px;
+}
+.park{
+    /* margin: 10px; */
+    display: flex;
+    flex-direction: row;
+    padding-left: 235px;
+    margin-top: 62px;
+    /* margin-bottom: 12px; */
+}
+.p{
+  width: 561px;
+  height: 180px;
+  margin-top: 72px;
+}
+*{
+    font-family:Varela Round;
+}
+h3{
+    color: white;
+    font-size: 33px;
+    margin-bottom: -22px;
+}
+span{
+    font-size: 46px;
+    background: -webkit-linear-gradient(rgb(900, 5, 245),rgb(247, 209, 209),rgb(156, 163, 125));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+}
+p{
+    color: white;
+    padding-right: 17px;
+    font-size: 22px;
+    font-weight: normal;
+
+}
+button{
+    box-shadow: 2px -3px 7px -1px pink;
+    width: 171px;
+    height: 66px;
+    margin-top: 19px;
+    background-color: #77037B;
+    border-radius: 12px;
+    font-size: 20px;
+    color: white;
+    border: 0;
+}
+
+button:hover{
+    background-color: white;
+    color: black;
+    transition: 1s;
+    /* transform :translateX(4px); */
+    transform :translateY(-5px);
+}
+.I{
+    padding-bottom: 8px
+    /* padding-left:27px; */
+}
+/* .container{
+     height: 100%;
+    width: 100%;
+} */
