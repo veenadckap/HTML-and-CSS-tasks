@@ -1,0 +1,147 @@
+body{
+    background-color: rgb(110, 160, 236);
+    margin-top: 15px;
+   padding-left:305px;
+}
+.contact-links{
+    background-color: rgb(12, 14, 65);
+    width: 375px;
+    height: 273px;
+    align-items: center;
+    justify-content: center;
+    /* flex-direction: column; */
+    text-align: center;
+    font-weight: 100;
+}
+.link{
+    display: inline;
+    width: 200px;
+    height: 100px;
+   
+}
+.link img{
+    height:39px;
+    
+}
+h2{
+    color: white;
+    margin-top:81px;
+    font-size:30px;
+}
+.contact-form-wrapper{
+    background-color: rgb(89, 181, 238);
+       width:367px ;
+       height:272px ;  
+       display: flex;
+      
+
+}
+
+.contact-box{
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 101px;
+}
+#myBtn{
+    background-color: rgb(12, 14, 65);
+    color: rgb(248, 243, 246);
+    width: 525px;
+    height: 50px;
+    margin: 109px;
+   /* padding-left: 53px;
+    padding-bottom: 2px;
+    padding-right: 50px;
+  /*  justify-content: center;
+    justify-content: center;*/
+    margin-left: 64px;
+    /* display: inline; */
+    cursor: pointer;
+}
+
+.submit-btn{
+    background-color:  rgb(12, 14, 65);
+    color: white;
+    width:66px ;
+    height:31px ;
+    
+}
+.modal-content{
+    background-color: rgb(254, 245, 254);
+    width:419px ;
+    height:226px ;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    /*position: absolute;*/
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+
+}
+.form-item{
+    margin-top:21px
+}
+  
+/* .modal{
+    background-color: rgb(254, 253, 254);
+     position: fixed;
+    
+} */
+.form-item{
+    text-align: center;
+
+}
+.modal-content{
+   
+    position: fixed;
+    background-color:rgba(146, 165, 241, 0.754);
+    
+
+}
+.links{
+    margin-bottom: 10px;
+    padding: 18px;   
+    word-spacing: 10px; 
+    cursor: pointer;
+
+    
+}
+input:focus{
+    margin-top: 20px;
+    background-color: rgb(232, 244, 141);
+}
+textarea:focus{
+    padding: 5px; 
+    margin-top: 20px;
+    background-color: rgb(232, 244, 141);
+}
+label{
+   position: absolute;
+   left: 130px;
+}
+div#myModal{
+    position: fixed;
+    height: 100%;
+    width: 1372px;
+    top: 0;
+    left: 0;
+    background-color: rgb(154, 157, 154);
+}
+
+
+.links:hover{
+      transform: scale(1.1,1.1);
+}
+
+.submit-btn{
+    background-color: rgb(12, 14, 65); 
+    padding-top: 5px;
+    margin-top: 20;
+    cursor: pointer;
+}
+.submit-btn:hover{
+    padding: 4px;
+
+}
+
+
