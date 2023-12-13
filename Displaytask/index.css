@@ -1,0 +1,159 @@
+.firstrow{
+    display: flex;
+    justify-content: center;
+    padding-top:46px;
+}
+.subbox1{
+    width: 104px;
+    height: 105px;
+    margin-left: 5px;
+    margin-top: 5px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 25px;
+    background-color: rgb(224, 126, 143);
+}
+.subbox2{
+    width: 104px;
+    height: 105px;
+    margin-left: 5px;
+    margin-top: 5px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 25px;
+    background-color: darkorchid;
+}
+.subbox3{
+    width: 104px;
+    height: 105px;
+    margin-left: 5px;
+    margin-top: 5px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 25px;
+    background-color: lightgreen;
+}
+.subbox4{
+    width: 104px;
+    height: 105px;
+    margin-left: 5px;
+    margin-top: 5px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 25px;
+    background-color: darkmagenta;
+}
+.secondrow{
+    display: flex;
+    justify-content: center;
+    padding-top:46px;
+}
+.subbox5{
+    width: 104px;
+    height: 105px;
+    margin-left: 5px;
+    margin-top: 5px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 25px;
+    background-color: green;
+}
+.subbox6{
+    width: 104px;
+    height: 105px;
+    margin-left: 5px;
+    margin-top: 5px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 25px;
+    background-color: red;
+}
+.subbox7{
+    width: 104px;
+    height: 105px;
+    margin-left: 5px;
+    margin-top: 5px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 25px;
+    background-color: darkblue;
+}
+.subbox8{
+    width: 104px;
+    height: 105px;
+    margin-left: 5px;
+    margin-top: 5px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 25px;
+    background-color: rgb(111, 250, 111);
+}
+.thirdrow{
+    display: flex;
+    justify-content: center;
+    padding-top:46px;
+}
+.subbox9{
+    width: 104px;
+    height: 105px;
+    margin-left: 5px;
+    margin-top: 5px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 25px;
+    background-color: lightseagreen;
+}
+.subbox10{
+    width: 104px;
+    height: 105px;
+    margin-left: 5px;
+    margin-top: 5px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 25px;
+    background-color: rgb(200, 104, 248);
+}
+.subbox11{
+    width: 104px;
+    height: 105px;
+    margin-left: 5px;
+    margin-top: 5px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 25px;
+    background-color: rgb(247, 247, 112);
+}
+.subbox12{
+    width: 104px;
+    height: 105px;
+    margin-left: 5px;
+    margin-top: 5px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 25px;
+    background-color: rgb(153, 37, 24);
+}
