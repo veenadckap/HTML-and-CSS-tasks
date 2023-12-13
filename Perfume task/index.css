@@ -1,0 +1,102 @@
+body{
+    background-color: hsl(30,38%,92%);
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+.container{
+    width: 564px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: rgb(255,255,255);
+    box-shadow: 4px 4px 4px 4px 4px gray;
+    height: 373px;
+    border-radius: 9px 9px 9px 9px;
+}
+.page{
+    padding: 0;
+    width: 265px;
+    height: 354px;
+}
+.new-price{
+    color: #37bb40;
+    font-family: 'Fraunces',serif;
+    font-size: x-large;
+    display: inline;
+    padding-left: 39px;
+}
+    
+
+.old-price{
+    display: inline;
+}
+ strike{
+    font-size: small;
+    color: rgb(63, 47, 47);
+    font-weight: 200;
+    /* padding-right: 16px; */
+    margin-left: -51px;
+
+
+ }
+/*.button{
+    width: 100px;
+    height: 100px;
+}*/
+button{
+    width:226px;
+    height: 33px;
+    background-color: rgb(2, 82, 2);
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 0;
+    
+}
+
+.material-symbols-outlined{
+    color: rgb(145, 139, 139);
+    width: 21px;
+    /* height:22px; */
+
+}
+
+h1{
+    padding-right: 27px;
+    padding-left: 12px;
+    font-family: 'Fraunces', serif;
+}
+pre{
+    margin: 1px;
+    font-family: 'Montserrat', sans-serif;
+    padding: 10px;
+    letter-spacing: 5px;
+    color: hsl(220, 15%, 55%);
+}
+p{
+    display: block;
+    color: hsl(220, 15%, 55%);
+    margin-inline-start: 4px;
+    margin-inline-end: 52px;
+    /* padding-left: 2px; */
+    padding-right: 1px;
+    padding-left: 12px;
+}
+.click{
+    padding-left:27px;
+    margin-top: -2px;
+   color:rgb(12 83 12);
+}
+/* button:hover{
+    background-color: #41b650;
+} */
+.image img{   
+   width: 296px;
+    height: 372px;
+    border-radius: 9px 0px 0px 9px;
+
+}
